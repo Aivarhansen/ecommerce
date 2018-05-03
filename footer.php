@@ -1,5 +1,5 @@
     <footer>
-      <p>This is the footer</p>
+      <p>This is the footerse</p>
       <?php wp_nav_menu(array('theme_location'=>'secondary')); ?>
     </footer>
 
